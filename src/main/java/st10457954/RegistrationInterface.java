@@ -1,4 +1,4 @@
-package st10457602;
+package st10457954;
 
 import javax.swing.JOptionPane;
 
@@ -46,7 +46,6 @@ public class RegistrationInterface extends javax.swing.JFrame {
         logoLabel = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(800, 600));
         setSize(new java.awt.Dimension(800, 600));
 
         headerPanel.setBackground(new java.awt.Color(255, 255, 255));
